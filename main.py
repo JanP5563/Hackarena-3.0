@@ -265,6 +265,13 @@ class RacingBot:
             gear_shift=gear_shift,
         )
 
+class SimpleBot:
+    def __init__(self):
+        self.tick = 0
+    def on_tick(self, snapshot: RaceSnapshot, ctx: BotContext):
+        print(f"Działam! Tick: {self.tick}")
+        self.tick += 1
 
 if __name__ == "__main__":
-    run_bot(RacingBot())
+    print("Próbuję wystartować serwer...")
+    run_bot(SimpleBot())
