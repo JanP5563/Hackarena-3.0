@@ -1,0 +1,55 @@
+{
+  "revision": 2,
+  "sandboxes": [
+    {
+      "sandbox_id": "25a85b8a-a675-52f4-a3b0-544cfabcd314",
+      "config": {
+        "sandbox_name": "New local server",
+        "map_id": "bolt01sadhfbsasdv",
+        "time_of_day": {
+          "mode": "fixed_preset",
+          "fixed_preset": "noon"
+        },
+        "ghost_mode": {
+          "enabled": false,
+          "enter_speed_max_mps": 0.0,
+          "exit_speed_min_mps": 0.0,
+          "enter_delay_ms": 0,
+          "exit_delay_ms": 0,
+          "until_completed_laps": 0,
+          "vehicle_overlap_exit_delay_ms": 0
+        },
+        "weather": {
+          "weather_type": "clear",
+          "temperature_c": 20
+        },
+        "spawn_mode": "start_line"
+      }
+    },
+    {
+      "sandbox_id": "6f1d777b-c529-5cd9-81db-4f8f66f6b096",
+      "config": {
+        "sandbox_name": "New local server",
+        "map_id": "bolt01sadhfbsasdv",
+        "time_of_day": {
+          "mode": "fixed_preset",
+          "fixed_preset": "noon"
+        },
+        "ghost_mode": {
+          "enabled": false,
+          "enter_speed_max_mps": 0.0,
+          "exit_speed_min_mps": 0.0,
+          "enter_delay_ms": 0,
+          "exit_delay_ms": 0,
+          "until_completed_laps": 0,
+          "vehicle_overlap_exit_delay_ms": 0
+        },
+        "weather": {
+          "weather_type": "clear",
+          "temperature_c": 20
+        },
+        "spawn_mode": "start_line"
+      }
+    }
+  ]
+}

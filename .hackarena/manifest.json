@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "path": "C:\\Users\\magda\\AppData\\Local\\HackArena\\bin\\ha-auth.exe",
+    "sha256": "4b5b93cfae3a93c58e72860f47363e6653b7bf6bb825f697a385a0192748ae4f",
+    "installed_at_unix": 1774702568
+  },
+  "backend": {
+    "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-Backend/releases/assets/383513611?asset_name=ha3-backend-local-x86_64-pc-windows-msvc-v0.1.0-beta.141.zip",
+    "install_dir": "backend",
+    "sha256": "03dc7f4abcf83f50be2e65ff2f066a82f5d813e71968733da9ff8b157701f893",
+    "installed_at_unix": 1774702568,
+    "files": []
+  },
+  "wrappers": {
+    "python": {
+      "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-ApiWrapper-Python/releases/assets/383407741?asset_name=wrapper-python-v0.1.0.zip",
+      "install_dir": "wrappers\\python",
+      "sha256": "083996b65a0b58f8e694d92283ac69ad578ecbd680e56af48317d6b2c8ca00de",
+      "installed_at_unix": 1774702568,
+      "files": []
+    }
+  },
+  "wrapper": null
+}
