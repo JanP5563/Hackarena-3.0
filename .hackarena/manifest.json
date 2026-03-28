@@ -1,0 +1,18 @@
+{
+  "auth": {
+    "path": "C:\\Users\\janek\\AppData\\Local\\HackArena\\bin\\ha-auth.exe",
+    "sha256": "4b5b93cfae3a93c58e72860f47363e6653b7bf6bb825f697a385a0192748ae4f",
+    "installed_at_unix": 1774694090
+  },
+  "backend": null,
+  "wrappers": {
+    "python": {
+      "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-ApiWrapper-Python/releases/assets/383407741?asset_name=wrapper-python-v0.1.0.zip",
+      "install_dir": "wrappers\\python",
+      "sha256": "083996b65a0b58f8e694d92283ac69ad578ecbd680e56af48317d6b2c8ca00de",
+      "installed_at_unix": 1774694090,
+      "files": []
+    }
+  },
+  "wrapper": null
+}

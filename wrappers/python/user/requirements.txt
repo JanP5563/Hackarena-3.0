@@ -1,0 +1,3 @@
+# hackarena3-runtime: managed by hackarena-cli
+./.vendor/hackarena3-0.1.0-py3-none-any.whl
+# add your own dependencies below
