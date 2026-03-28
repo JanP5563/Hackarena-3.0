@@ -4,7 +4,13 @@
     "sha256": "4b5b93cfae3a93c58e72860f47363e6653b7bf6bb825f697a385a0192748ae4f",
     "installed_at_unix": 1774694090
   },
-  "backend": null,
+  "backend": {
+    "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-Backend/releases/assets/379783126?asset_name=ha3-backend-local-x86_64-pc-windows-msvc-v0.1.0-beta.2.zip",
+    "install_dir": "backend",
+    "sha256": "4360648ed155eefc57f3afbe53ee9ebaa5c3669cbe857f8e5e6c018eee91cd63",
+    "installed_at_unix": 1774694625,
+    "files": []
+  },
   "wrappers": {
     "python": {
       "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-ApiWrapper-Python/releases/assets/383407741?asset_name=wrapper-python-v0.1.0.zip",
