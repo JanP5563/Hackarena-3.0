@@ -5,10 +5,10 @@
     "installed_at_unix": 1774694588
   },
   "backend": {
-    "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-Backend/releases/assets/383484730?asset_name=ha3-backend-local-x86_64-pc-windows-msvc-v0.1.0-beta.133.zip",
+    "url": "https://api.github.com/repos/INIT-SGGW/HackArena3.0-Backend/releases/assets/383502948?asset_name=ha3-backend-local-x86_64-pc-windows-msvc-v0.1.0-beta.138.zip",
     "install_dir": "backend",
-    "sha256": "3e7fc2c8212269651b02f255f74de70d2ea205fa9306cad821a1198596d2ad7e",
-    "installed_at_unix": 1774696401,
+    "sha256": "e92a35ef7975e852218bb3ad1cd97220c2014d7634290be951f4276b48c242e1",
+    "installed_at_unix": 1774699429,
     "files": []
   },
   "wrappers": {
