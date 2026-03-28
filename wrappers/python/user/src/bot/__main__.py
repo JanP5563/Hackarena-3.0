@@ -9,6 +9,7 @@ class ExampleBot:
 
     def on_tick(self, snapshot: RaceSnapshot, ctx: BotContext) -> None:
         self.tick += 1
+        print(f"--- TICK {self.tick} ---")
 
         if self.tick <= 50:
             return
